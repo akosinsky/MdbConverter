@@ -6,6 +6,7 @@
 //
 // (C) 2009 Novell, Inc. (http://www.novell.com)
 //
+// Contributor(s): Alexander Kosinsky (https://github.com/akosinsky/MdbConverter).
 
 using System;
 using System.Collections.Generic;
